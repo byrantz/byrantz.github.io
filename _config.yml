@@ -1,7 +1,4 @@
 # Site settings
-theme: jekyll-theme-hacker
-gems:
-  - jekyll-mentions
 title: Byrantz Blog
 SEOTitle: 西洲的博客 | Byrantz Blog
 email: imzhouwm@163.com
